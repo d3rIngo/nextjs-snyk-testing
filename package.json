@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "next": "^14.1.0"
+  },
+  "name": "nextjs-snyk-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "next build",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nextjs-snyk-testing"
+  },
+  "author": "ingo",
+  "license": "ISC",
+  "description": ""
+}
