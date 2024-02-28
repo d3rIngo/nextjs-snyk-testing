@@ -5,7 +5,9 @@
   "name": "nextjs-snyk-testing",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
   "scripts": {
     "build": "next build",
     "test": "jest"
